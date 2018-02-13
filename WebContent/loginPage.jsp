@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h>${errormessage}</h>
 <form action="LoginServlet" method="post">
 
     Username: <input type="text" name="username">
